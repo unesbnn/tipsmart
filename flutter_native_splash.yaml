@@ -1,0 +1,33 @@
+flutter_native_splash:
+
+  color: "#0F1513"
+  image: "assets/app_icon.png"
+#  branding: assets/images/credits.png
+#  branding_mode: bottom
+  color_dark: "#0F1513"
+  #background_image_dark: "assets/dark-background.png"
+  #image_dark: assets/splash-invert.png
+#  branding_dark: assets/images/credits_dark.png
+
+  android_12:
+#    image: "assets/images/background.png"
+    icon_background_color: "#0F1513"
+#    background_image_android: "assets/images/background.png"
+#    image_dark: assets/android12splash-invert.png
+    icon_background_color_dark: "#0F1513"
+#    branding: assets/images/credits.png
+#    branding_dark: assets/images/credits_dark.png
+
+  #android: false
+  #ios: false
+  #web: false
+
+  #android_gravity: center
+  #ios_content_mode: center
+  #web_image_mode: center
+
+  #fullscreen: true
+
+  #info_plist_files:
+  #  - 'ios/Runner/Info-Debug.plist'
+  #  - 'ios/Runner/Info-Release.plist'
