@@ -1,7 +1,8 @@
-## Getting Started
+# tipsmart
+Football betting tips flutter app, using TipAdvisor Api
 
 Change package name
-flutter pub run change_app_package_name:main com.azmardev.tipsmart
+flutter pub run change_app_package_name:main com.your.packagename
 
 Create splash screen
 dart run flutter_native_splash:create --path=flutter_native_splash.yaml
